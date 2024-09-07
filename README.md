@@ -23,7 +23,7 @@ lat and long ) are more expensive.
 lower prices.
 
 # Dataset
-you can get the dataset from kaggle : https://www.kaggle.com/datasets/sukhmandeepsinghbrar/housing-price-dataset .
+You can get the dataset from kaggle : https://www.kaggle.com/datasets/sukhmandeepsinghbrar/housing-price-dataset .
 
 
 # Acknowledgement
